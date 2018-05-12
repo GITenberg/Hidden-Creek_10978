@@ -1,5 +1,8 @@
 _repo: Hidden-Creek_10978
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burt, Katharine Newlin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2500'
     url: http://www.gutenberg.org/2009/agents/2500
 description: Cover -- contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10978#Hidden-Creek
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
